@@ -1,7 +1,7 @@
 # SAS custom task example: Calculate Running Totals (Visual Basic version)
 ***
 This repository contains one of a series of examples that accompany
-_Custom Tasks for SAS Enterprise Guide using Microsoft .NET_ 
+[_Custom Tasks for SAS Enterprise Guide using Microsoft .NET_](https://support.sas.com/pubscat/bookdetails.jsp?pc=61874)
 by [Chris Hemedinger](http://support.sas.com/hemedinger).
 
 This particular example goes with
